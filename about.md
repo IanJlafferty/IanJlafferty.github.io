@@ -11,6 +11,9 @@ Hello there, My name is Ian Lafferty.
 
 I am a Student at Rowan University. 
 
-I have a few hobbies, they range from D&D ![placeholder](/Images/D&D.png "Dungeon And Dragons") and the like to Warhammer 40K. I don't want to forget that I also enjoy video games.
-![placeholder](/Images/D&D.png "Dungeon And Dragons")
+## Hobbies
+* I play Dungeon and Dragons ![placeholder](/Images/D&D.png "Dungeon And Dragons") 
+* Warhammer 40K ![placeholder](/Images/Warhammer.jpg "Warhammer 40k")
+* I also enjoy video games.
+
 
