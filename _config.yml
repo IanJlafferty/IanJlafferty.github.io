@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Ian
-tagline:          'A Jekyll theme'
+tagline:          'A site about me'
 description:      'A site for Ian Lafferty using the Hyde Jekyll theme'
 url:              http://hyde.getpoole.com
 baseurl:          https://ianjlafferty.github.io./
