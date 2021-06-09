@@ -3,8 +3,6 @@ layout: page
 title: Education
 ---
 
-## Education
-
 On this page I have a list of what I have done for my education
 
 * High School at Hunterdon Central Regional Highschool
