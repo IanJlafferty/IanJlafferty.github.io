@@ -14,6 +14,6 @@ I am a Student at Rowan University.
 ## Hobbies
 * I play Dungeon and Dragons ![placeholder](/Images/D&D.png "Dungeon And Dragons") 
 * Warhammer 40K ![placeholder](/Images/Warhammer.jpg "Warhammer 40k")
-* I also enjoy video games.
+* I also enjoy video games. ![placeholder](/Images/Steam.jpg "Steam") ![placeholder](/Images/Xbox.jpg "Xbox")
 
 
