@@ -12,5 +12,5 @@ Hello there, My name is Ian Lafferty.
 I am a Student at Rowan University. 
 
 I have a few hobbies, they range from D&D and the like to Warhammer 40K. I don't want to forget that I also enjoy video games.
-![placeholder](http://placehold.it/200x200 "Small example image")
+![placeholder](https://github.com/IanJlafferty/IanJlafferty.github.io/blob/main/Images/D%26D.png "Small example image")
 
